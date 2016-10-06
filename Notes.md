@@ -10,7 +10,7 @@
 - zimwiki
 
 ### 繁杂系
-dokuwiki
-moinmoin
-wikidot
-seafile-wiki 
+- dokuwiki
+- moinmoin
+- wikidot
+- seafile-wiki 
